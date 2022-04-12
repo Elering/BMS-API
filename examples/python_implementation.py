@@ -6,7 +6,7 @@
 #
 # Created:     26.10.2017
 # Copyright:   (c) kristjan.vilgo 2017
-# Licence:     <your licence>
+# Licence:     MIT
 # Supported python versions:       2.7, 3.X
 #-------------------------------------------------------------------------------
 from __future__ import print_function
